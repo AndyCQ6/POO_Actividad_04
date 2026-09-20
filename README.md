@@ -2,7 +2,7 @@
 
 Cuarta tarea de la EE de Diseño y Programación Orientada a Objetos. 
 
-* **IMPORTANTE:** Accede al [diagrama UML en Lucidchart](https://lucid.app/lucidchart/c0d052ce-5f27-4327-9687-a5e5992da9f3/edit?viewport_loc=1763%2C-505%2C2082%2C1159%2C0_0&invitationId=inv_8c98af77-3ce6-45bc-a837-a722ec2df9ac) y consulta la [evidencia de ejecución](AQUI_PEGAS_EL_OTRO_ENLACE).
+* **IMPORTANTE:** Accede al [diagrama UML en Lucidchart](https://lucid.app/lucidchart/c0d052ce-5f27-4327-9687-a5e5992da9f3/edit?viewport_loc=1763%2C-505%2C2082%2C1159%2C0_0&invitationId=inv_8c98af77-3ce6-45bc-a837-a722ec2df9ac) y consulta la [evidencia de ejecución](https://github.com/AndyCQ6/Sistema-de-control-de-acceso-para-gimnasio/commit/e39d9329d6e19a5893c7f713dd6c93262c401d11).
 
 ## Instrucciones: 
 Lee atentamente la problemática del negocio y desarrolla la arquitectura de clases en Java aplicando los conceptos de abstracción, herencia, encapsulamiento y polimorfismo.
